@@ -1,0 +1,8 @@
+{
+  "name": "Board Game Tools Expert",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "dd308047"
+}
